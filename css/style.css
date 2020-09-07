@@ -1,0 +1,82 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner-container{
+    background-color: #CACACA;
+}
+.banner-column{
+    background-color: #8D8D8D;
+}
+.navbar-container{
+    top: 0;
+    background-color: #262B37;
+    position: sticky;
+    z-index: 2;
+}
+.about-container{
+    background-color: rgb(21, 42, 73);
+}
+.education-container{
+    background-color: rgb(56, 122, 50);
+}
+.heading-color{
+    color: white;
+}
+.circle{
+    background-color: rgb(233, 110, 88);
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+}
+.projects-container{
+    background-color: wheat;
+}
+.contact-container{
+background-color: rgb(44, 3, 37);
+}
+.inner-form{
+    background-color: rosybrown;
+}
+.btn bg-danger:hover{
+    color: royalblue;
+}
+.footer-container{
+    background-color: slategray;
+}
+.circle-facebook{
+    background-color: white;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 40px;
+    text-align: center;
+}
+.circle-facebook:hover{
+    background-color:#4267B2;
+}
+.circle-youtube{
+    background-color: white;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 40px;
+    text-align: center;
+}
+.circle-youtube:hover{
+    background-color:#FF0000;
+}
+.circle-github{
+    background-color: white;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 40px;
+    text-align: center;
+}
+.circle-github:hover{
+    background-color:#2C974B;
+    
